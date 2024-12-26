@@ -62,15 +62,6 @@ package.json             // Project configuration
 - [React DOM](https://reactjs.org/docs/react-dom.html) - DOM bindings for React
 - [React Scripts](https://www.npmjs.com/package/react-scripts) - Configuration and scripts for Create React App
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- This app is inspired by Google Keep.
-- Special thanks to the team at Codesandbox for providing an excellent development platform.
-
 ---
 
 Feel free to contribute to this project by submitting issues or pull requests!
